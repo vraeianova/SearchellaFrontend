@@ -19,7 +19,6 @@ Utiliza como base de datos Zincsearch
 ### Siguientes mejoras a la aplicación 🧾
 - Crear un api mas robusto.
 - Crear un sistema de login.
-- Crear un frontend separado por componentes.
 - Desplegar en Terraform
 
 ### Sitio web 🌎
